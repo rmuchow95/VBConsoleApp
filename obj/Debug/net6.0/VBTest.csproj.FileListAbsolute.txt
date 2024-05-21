@@ -1,0 +1,15 @@
+/Users/Rachel/Desktop/Projects/VBTest/bin/Debug/net6.0/VBTest
+/Users/Rachel/Desktop/Projects/VBTest/bin/Debug/net6.0/VBTest.deps.json
+/Users/Rachel/Desktop/Projects/VBTest/bin/Debug/net6.0/VBTest.runtimeconfig.json
+/Users/Rachel/Desktop/Projects/VBTest/bin/Debug/net6.0/VBTest.dll
+/Users/Rachel/Desktop/Projects/VBTest/bin/Debug/net6.0/VBTest.pdb
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.csproj.AssemblyReference.cache
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.AssemblyInfoInputs.cache
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.AssemblyInfo.cs
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.csproj.CoreCompileInputs.cache
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.dll
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/refint/VBTest.dll
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.pdb
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/VBTest.genruntimeconfig.cache
+/Users/Rachel/Desktop/Projects/VBTest/obj/Debug/net6.0/ref/VBTest.dll
